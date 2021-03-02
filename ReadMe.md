@@ -1,6 +1,6 @@
 <h2>Hello 👋, I'm <a href="https://ame-yu.github.io/">Kyle Zhou</a></h2>
 
-<p>I'm currently a fullstack developer</p>
+<p>I'm a software developer.I do frontend and backend. also a bit of DL.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ame-yu&show_icons=true&count_private=true" alt="ame-yu" />
 <h2>🚀 Some Tools I Use</h2>
