@@ -12,8 +12,7 @@
 
 <h2>🚀 Some Tools I Use</h2>
 
-<p align="left">
-  
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="52px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="52px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="java" height="52px" />
