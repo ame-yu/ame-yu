@@ -32,4 +32,4 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="52px" />
 </p>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ame-yu.ame-yu" alt="visitors" height="0px"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=ame-yu.ame-yu" alt="" height="0px"></p>
